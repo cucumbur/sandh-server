@@ -1,0 +1,18 @@
+{
+  "name": "sandh-server",
+  "version": "1.0.0",
+  "description": "A turn-based party RPG-lite",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Rick Sheahan",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "socket.io": "^1.7.2"
+  }
+}
